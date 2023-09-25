@@ -1,0 +1,68 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Cpp/FileContentIndex/2620b0ae-af83-4aca-a454-d2e8e4640b6e.vsidx
+/.vs/Cpp/v17/.wsuo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/ConsoleApplication/.vs/ConsoleApplication/FileContentIndex/0b67b131-f543-4ecc-9b3d-bd889fa2fe9c.vsidx
+/ConsoleApplication/.vs/ConsoleApplication/FileContentIndex/93411299-f422-4559-9a5a-b123c29c8ba7.vsidx
+/ConsoleApplication/.vs/ConsoleApplication/v17/Browse.VC.db
+/ConsoleApplication/.vs/ConsoleApplication/v17/Browse.VC.db-shm
+/ConsoleApplication/.vs/ConsoleApplication/v17/Browse.VC.db-wal
+/ConsoleApplication/.vs/ConsoleApplication/v17/Browse.VC.opendb
+/ConsoleApplication/.vs/ConsoleApplication/v17/ipch/AutoPCH/c72eec8bebdbc637/CONSOLEAPPLICATION.ipch
+/ConsoleApplication/ConsoleApplication/ConsoleApplication.vcxproj
+/ConsoleApplication/ConsoleApplication/ConsoleApplication.vcxproj.filters
+/ConsoleApplication/ConsoleApplication/ConsoleApplication.vcxproj.user
+/ConsoleApplication/ConsoleApplication.sln
+
+
+# c++ .gitignore file:
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/ConsoleApplication/.vs/ConsoleApplication/v17/.suo
+/.vs/Cpp/v17/Browse.VC.db
+/.vs/Cpp/v17/Browse.VC.db-shm
+/.vs/Cpp/v17/Browse.VC.db-wal
+/.vs/Cpp/v17/Browse.VC.opendb
+/.vs/Cpp/v17/ipch/AutoPCH/ccbc1d879e98e07/CONSOLEAPPLICATION.ipch
+/.vs/ProjectSettings.json
+*.vsidx
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite
+/.gitignore
